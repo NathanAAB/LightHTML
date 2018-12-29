@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bibliography</title>
+  <link rel="stylesheet" type="text/css" href="light_stylesheet.css">
+</head>
+<body>
+  <div id="div_01" class="headTop">
+    <h1> Bibliography </h1>
+  </div>
+  
+ <div id="div_02" class="navBar">
+    <ul id="ul_01" class="navBar">
+      <li><a href="Homepage.html"> Home </a></li> 
+      <li><a href="Ray_Optics.html"> Ray Optics </a></li>
+      <li><a href="Wave_Optics.html"> Wave Optics </a></li>
+      <li><a href="Quantum_Optics.html"> Quantum Optics </a></li>
+      <li><a href="Bibliography.html" class="active"> Bibliography </a></li>
+    </ul>
+  </div>
+  <div id="div_03" class="main">
+    <ul id="ul_02">
+      <li>
+        Science Reporter Vol.50(5) [May, 2015] Cover Story: "Decoding the Enigma called Light"
+        <br>
+        Obtained from,
+        <a href="http://nopr.niscair.res.in/handle/123456789/31536">http://nopr.niscair.res.in/handle/123456789/31536</a>
+      </li>
+      <br>
+      <li>
+        <a href="https://en.wikipedia.org/wiki/Black-body_radiation">Wikipedia: Black Body Radiation</a>
+      </li>
+      <br>
+      <li>
+        <a href="https://en.wikipedia.org/wiki/Photelectric_effect">Wikipedia: Photoelectric Effect</a>
+      </li>
+      <br>
+      <li>
+        All images have their sources mentioned in the comments beside the code
+        </li>
+    </ul>
+  </div>
+  <div id="div_04" class="foot">
+    To go to any other page use the Navigation Bar on the left.
+  </div>
+</body>
+</html>

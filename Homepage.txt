@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Homepage </title>
+  <link rel="stylesheet" type="text/css" href="light_stylesheet.css">
+</head>
+
+<body>
+  <div id="div_01" class="headTop">
+    <h1> Light: An Enigmatic Entity </h1>
+  </div>
+  
+  <div id="div_02" class="navBar">
+    <ul id="ul_01" class="navBar">
+      <li><a href="Homepage.html" class="active"> Home </a></li> 
+      <li><a href="Ray_Optics.html"> Ray Optics </a></li>
+      <li><a href="Wave_Optics.html"> Wave Optics </a></li>
+      <li><a href="Quantum_Optics.html"> Quantum Optics </a></li>
+      <li><a href="Bibliography.html"> Bibliography </a></li>
+    </ul>
+  </div>
+  
+  <div id="div_03" class="main">
+    <p>
+    On 20th December 2013, United Nations(UN) proclaimed 2015 as the International Year of Light and Light-based technologies. It is a global initiative to highlight the importance of light and optical technologies for people and society.   
+    <br><br>
+    We see light, and we see through light everyday, everywhere. Over the years, scientists researching in optics - the science of light - have amassed a repository of knowledge. They have made myriad discoveries which has given us an insight into the enigma called light. This quest to discover the true nature of light can be illustrated as the "Optics Knowledge Spiral"; travelling along the depth, we unravel the nature of light through various theoretical models, whereas, going along the breadth of the spiral leads to the appreciation of the applications of this repertoire of knowledge.
+    </p>
+    <img id="img_01" src="img_1.jpg" alt="spiral">
+    <!--obtained from http://nopr.niscair.res.in/handle/123456789/31536-->
+  </div>
+   
+  <div id="div_04" class="main">
+    <p>
+    This website gives a basic introduction to the various faces light has been seen in through the ages, as well as to the pioneers of the research which led to the discovery of the particular aspect of light.
+    </p>
+  </div>
+
+  <div id="div_05" class="foot"> 
+    <p>
+    To go to the first page, on ray optics, click <a href="Ray_Optics.html">here</a>. Else, use the Navigation Bar on the left.
+    </p>
+  </div>
+   
+</body>
+
+</html> 

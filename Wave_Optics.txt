@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wave Optics</title>
+  <link rel="stylesheet" type="text/css" href="light_stylesheet.css">
+</head>
+<body>
+  <div id="div_01" class="headTop">
+    <h1> Light as a Wave </h1>
+  </div>
+  
+  <div id="div_02" class="navBar">
+    <ul id="ul_01" class="navBar">
+      <li><a href="Homepage.html"> Home </a></li> 
+      <li><a href="Ray_Optics.html"> Ray Optics </a></li>
+      <li><a href="Wave_Optics.html" class="active"> Wave Optics </a></li>
+      <li><a href="Quantum_Optics.html"> Quantum Optics </a></li>
+      <li><a href="Bibliography.html"> Bibliography </a></li>
+    </ul>
+  </div>
+    
+  <div id="div_03" class="main">
+    <p>
+      Optics based on the assumption that light is a wave is known as wave optics, which emerged in the 19th century. It deals with situations that involve light interacting with dimensions of the order of its wavelength. The major phenomena studied under wave optics are interference, diffraction and polarisation. Thus, the sciences of interferometry, diffractometry and polarimetry enriched the depth whereas the applications of interferometric, diffractometric and polarimetric techniques augmented the breadth of the optics knowledge spiral. 
+    </p>
+  </div>
+    
+  <div id="div_04" class="main">
+    <h2 class="headSub">Wave Optical Phenomena</h2>
+    <dl>
+      <dt>Interference</dt>
+        <dd>Interference means redistribution of light intensity due to superposition of two or more light waves. An interference pattern thus consists of bright and dark fringes.</dd>
+        
+      <dt>Diffraction</dt>
+        <dd>Diffraction means bending of light around sharp obstacles. The diffraction pattern produced by an obstacle contains information about the light used and of the diffracting obstacle.</dd>
+        
+      <dt>Polarisation</dt>
+        <dd>Polarised light is special in that the electric field, in such a light wave, is confined to a single plane, whereas in ordinary light, the field may have any of the possible orientations at random. The principle of spectroscopic investigation of matter based on polarisation is that the state of the polarisation of the light coming from a particular object is determined by the nature of that object.</dd>
+    </dl>
+  </div>
+    
+  <div id="div_05" class="main">
+    <h2 class="headSub">Development of the Wave Theory of Light</h2>
+    <img src="light_em.jpg" alt="light em">
+    <p>
+      Christian Huygens originally suggested the wave theory of light in 1678. This theory was substantiated by James Maxwell, who showed that light was not only a wave, but a transverse, electromagnetic wave. Using his four famous equations of electromagnetism, Maxwell calculated the theoretical value of the speed of light which was found to be in close agreement with experimental value measured by Fizeau. After making this discovery, Maxwell exclaimed, "Let there be electricity and magnetism, and there is light!" 
+      <br><br>
+      Thomas Young proposed the principle of superposition in 1802, which is the conceptual basis for explanation of various properties of light associated with interference, diffraction and polarisation.
+      <br><br>
+      The first interferometer was developed in 1881 by AA Michaelson, receiving the Nobel Prize for his researches on light in 1907.
+      <br><br>
+      The phenomenon of diffraction was discovered by Francesco Grimaldi, in 1665. Special devices called gratings were developed by David Rittenhouse in 1787, Joseph von Fraunhofer in 1821 and Rowland in 1882 to study diffraction of light in a laboratory.
+      <br><br>
+      Polarisation was discovered by Huygens in 1678 and by Etienne Malus in 1808. The Nicol prism based on double refractionm was built in 1828 by William Nicol.
+    </p>
+  </div>  
+    
+  <div id="div_06" class="foot">
+    <p>
+      To go to the next page, on quantum optics, click <a href="Quantum_Optics.html">here</a>. Else, use the Navigation Bar on the left. 
+    </p>
+  </div>
+</body>
+</html>

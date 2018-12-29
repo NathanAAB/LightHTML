@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Ray Optics </title>
+  <link rel="stylesheet" type="text/css" href="light_stylesheet.css">
+</head>
+
+<body>
+  <div id="div_01" class="headTop">
+  	<h1> Light as a Ray </h1>
+  </div>
+  
+  <div id="div_02" class="navBar">
+    <ul id="ul_01" class="navBar">
+      <li><a href="Homepage.html"> Home </a></li> 
+      <li><a href="Ray_Optics.html" class="active"> Ray Optics </a></li>
+      <li><a href="Wave_Optics.html"> Wave Optics </a></li>
+      <li><a href="Quantum_Optics.html"> Quantum Optics </a></li>
+      <li><a href="Bibliography.html"> Bibliography </a></li>
+    </ul>
+  </div>
+
+  <div id="div_03" class="main"> 
+    <p>
+      From the ancient Greeks, to the scientists of the 18th century, light was studied under the principal assumption that it consists of rays, which follow the geometrical laws of reflection and refraction, and thus this study came to be called ray or geometric optics. It dealt mainly on the effects of various optical intstruments such as mirrors, lenses and prisms on the paths traced by light rays.
+    </p>
+  </div>  
+  <div id="div_04" class="main">
+    <img src="ray_diagram.jpg" alt="ray diagram">
+    <p>
+      Ray diagrams like the above illustration are a fundamental reason why, even today, when our understanding of light has even extended to the quantum realm, ray optics are still taught as well as used for utilising the properties of light in everyday life. In short, the principles of geometrical optics are adequate for explaining and exploiting the macroscopic properties of light such as making spectacles for correction of myopia.
+    </p>
+  </div>
+  <div id="div_05" class="main">  
+    <h2 class="headSub"> Development of Instruments based on Ray Optics </h2>
+    <p>
+      The first microscope was developed around 1595 by the Dutch eyeglass makers, Hans Lippershey, Hans Janssen and his son, Zacharias. The earliest known telescopes were developed in 1608 in Netherlands by Hans Lippershey, Zacharias Janssen and Jacob Metius. Galileo and Kepler made signifiant contributions to the refinement of the telescope.
+    </p>
+    <p>
+    Benjamin Franklin invented the bifocals in 1784. Leeuwenhoek's pioneering research led to the theory of aberration-free lenses by nearly 1830.
+    </p>
+    <p>
+    The camera was improved by the work of Joseph-Nicephore Niepce and Louis Jacques Mande Daguerre of France. The word 'photography' was coined by Sir John Herschel in 1839. In 1861, James Maxwell, demonstrated the first color photographs.
+    </p>
+  </div>
+  <div id="div_06" class="foot">
+    <p>
+    To go to the next page, on wave optics, click <a href="Wave_Optics.html">here</a>.Else, use the Navigation Bar on the left.
+    </p>
+  </div>
+</body>
+
+</html> 

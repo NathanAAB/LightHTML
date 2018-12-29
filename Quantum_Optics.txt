@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quantum Optics</title>
+  <link rel="stylesheet" type="text/css" href="light_stylesheet.css">
+</head>
+<body>
+  <div id="div_01" class="headTop">
+    <h1> Light as Quanta </h1>
+  </div>
+  
+  <div id="div_02" class="navBar">
+    <ul id="ul_01" class="navBar">
+      <li><a href="Homepage.html"> Home </a></li> 
+      <li><a href="Ray_Optics.html"> Ray Optics </a></li>
+      <li><a href="Wave_Optics.html"> Wave Optics </a></li>
+      <li><a href="Quantum_Optics.html" class="active"> Quantum Optics </a></li>
+      <li><a href="Bibliography.html"> Bibliography </a></li>
+    </ul>
+  </div>
+    
+  <div id="div_03" class="main">
+    <p>
+      The spectacular success of the wave theory could last only till the 19th century. Experimental observations of phenomena such as black-body radiation, photoelectric effect and line spectra could not be explained by the classical wave theory. The reconciliation of these experiments with the theory led to an entirely different approach to study light, by assuming light consists of quantized bundles of energy called photons. This was quantum optics, the study of the nature and effects of light as photons.
+    </p>
+  </div>
+    
+  <div id="div_04" class="main">
+    <h2 class="headSub">Experimental phenomena leading to Quantum Optics</h2>
+    <dl>
+      <dt>Black Body Radiation</dt>
+        <dd>An object that absorbs all radiation falling on it, at all wavelengths, is called a black body. When such a body is at a uniform temperature, its emission, called black body radiation, has a characteristic frequency distribution that depends on temperature.</dd>
+        
+      <dt>Photoelectric effect</dt>
+        <dd>The photoelectric effect is the emission of electrons or other free carriers when light shines on a material. The electrons emitted are called photo electrons.</dd>
+          
+      <dt>Line spectra</dt>
+        <dd>The classical wave theory predicts that the absorption and emission spectra of all objects must be continuous. This is true for macroscopic objects, however, it was found that the spectra of individual elements in atomic state, was discontinuous due to the presence of "spectral lines" in the otherwise continuous spectrum.
+        <br><img src="spectrum.jpg" alt="spectrum">
+        </dd>
+    </dl>
+  </div>
+  <div id="div_05" class="main">
+    <h2 class="headSub">Development of the Quantum Theory of Light</h2>
+    <p>
+      Max Planck, Albert Einstein and Niels Bohr were the pioneers of this field. Einstein also won the Nobel Prize in 1905, for his work on the photoelectric effect and not for his world-renowned theory of Relativity.
+      <br><br>
+      The crowning glory of quantum optics was the discovery and development of the laser device; the word laser actually stands for light amplification by stimulated emission of radiation. Natural light is unpolarised, incoherent, divergent and weak. Scientists aimed at obtaining light which is polarised, coherent, convergent and intense.
+      <br><br>
+      The breakthrough came in 1917, when Einstein speculated that theoretically, intense and coherent light can be obtained if the emission process can be stimulated instead of allowing it to take place spontaeneously as in the case of ordinary light. It took 43 years before the first laser was developed by Theodore Maiman in 1960. Often, optics before the advent of the laser is called incoherent, and after its development, it was the age of coherent optics.
+    </p>
+  </div>
+    
+  <div id="div_06" class="foot">
+    To go the page for Bibliography, click <a href="Bibliography.html">here</a>. Else use the Navigation Bar.
+  </div>
+</body>
+</html>
