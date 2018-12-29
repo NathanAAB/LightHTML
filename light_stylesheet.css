@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Charm:400,700|Merriweather:300|Vesper+Libre|ZCOOL+XioaWei');
+    
+body
+  {
+  background-color: white;
+  }
+    
+.main
+  {
+  margin-left: 150px; 
+  font-family: 'Merriweather', serif; 
+  font-size: 18px;
+  }
+        
+p
+  {
+  margin-top, margin-bottom: 50px;
+  }
+    
+.headTop 
+  {
+  color: black; 
+  font-family: 'Vesper Libre', serif; 
+  text-align: center;
+  }
+        
+h2.headSub
+  {
+  font-family: "Vesper Libre", serif;
+  }
+
+ul.navBar 
+  {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 140px;
+  background-color: #f1f1f1;
+  height: 100%; 
+  position: fixed; 
+  overflow: auto;
+  }
+
+li
+  {
+  font-family: ZCOOL XiaoWei, serif;
+  font-size: 18px;
+  }
+    
+li a
+  {
+  display: block:
+  color: #000:
+  padding: 8px 16px:
+  text-decoration: none;
+  }
+        
+li a.active
+  {
+  background-color: #009900;
+  color: white;
+  }
+
+li a:hover:not(.active) 
+  {
+  background-color: #555;
+  color: white;
+  }
+    
+dt
+  {
+  font-family: "Charm", cursive;
+  font-size: 20px;
+  font-weight: bold;
+  }
+
+img
+  {
+  display: block;
+  margin-left: 480px; 
+  }    
+    
+.foot
+  {
+  margin-left: 150px; 
+  font-family: Charm, cursive;
+  }
